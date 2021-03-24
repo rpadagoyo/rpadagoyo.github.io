@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => 'rpadagoyo.github.io',
+    'baseUrl' => 'https://rpadagoyo.github.io',
     'production' => false,
     'siteName' => 'RPADagoyo',
     'siteDescription' => 'Generate an elegant blog with Jigsaw',
